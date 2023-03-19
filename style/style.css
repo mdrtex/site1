@@ -1,0 +1,63 @@
+.navigation {
+  background-color: beige;
+}
+hr {
+  border: none;
+  background-color: black;
+  color: black;
+  height: 1px;
+}
+#logo {
+  font-weight: 1000;
+  width: 100px;
+  height: 100px;
+}
+.carusel {
+  padding: 20px;
+  width: 800px;
+  height: 600px;
+  right: 40px;
+}
+.go {
+  float: right;
+}
+.block {
+  background-color: orange;
+  justify-content: center;
+  margin: 50px;
+  padding: 30px;
+  width: 1200px;
+  height: 500px;
+  display: flex;
+  margin: 0 auto;
+}
+
+.block .go {
+  padding: 20px;
+}
+.head1 {
+  text-align: center;
+}
+.graph {
+  display: flex;
+  margin: 20px;
+  padding: 30px;
+  justify-content: center;
+}
+.graph .card {
+  margin: 20px;
+}
+.jelb {
+  color: orange;
+}
+.joke {
+  padding: 60px;
+  height: 20px;
+}
+.kane {
+  display: flex;
+  justify-content: center;
+}
+.kane .pan {
+  margin: 80px;
+}
